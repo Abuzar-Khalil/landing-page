@@ -76,6 +76,18 @@ p {
     color:#000000;
 }
 
+.color-white {
+    color:#ffffff;
+}
+
+button a {
+    color: #fff;
+}
+
+button a:hover {
+    color: #fff;
+}
+
 p a {
     margin-left: 5px;
 }
